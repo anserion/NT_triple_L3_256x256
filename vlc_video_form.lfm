@@ -1,0 +1,12 @@
+object VLC_Form: TVLC_Form
+  Left = 339
+  Height = 256
+  Top = 115
+  Width = 256
+  BorderStyle = bsNone
+  Caption = 'Видеопоток'
+  OnClose = FormClose
+  OnCreate = FormCreate
+  LCLVersion = '2.0.10.0'
+  Scaled = False
+end
